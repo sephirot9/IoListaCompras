@@ -1,2 +1,2 @@
 # IoListaCompras
-lista de compras 
+lista de compras creada en Ionic
